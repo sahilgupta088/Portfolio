@@ -34,7 +34,7 @@ const NavBar = () => {
                 </div>
 
                 <div className='hidden lg:block'>
-                    <a className='bg-[#00df72] px-8 py-4 text-xl rounded-md' href="https://drive.google.com/file/d/1PFDGISYJOvCHCB36lG1unE_bpnmp_Cst/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                    <a className='bg-[#00df72] px-8 py-4 text-xl rounded-md' href="https://drive.google.com/file/d/1JDq-FfdEpc67O8FHHUSavgTRBoxUeaNn/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                         Resume
                     </a>
                 </div>

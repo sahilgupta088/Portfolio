@@ -34,7 +34,7 @@ const Hero = ({ ref }) => {
                     <button className='bg-[#00df72] px-16 py-4 text-xl rounded-md'>
 
 
-                        <a href="https://drive.google.com/file/d/17wKmMNT6jo7K1EZeBai9FygeJaYBX9Dd/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                        <a href="https://drive.google.com/file/d/1JDq-FfdEpc67O8FHHUSavgTRBoxUeaNn/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                             <span className='flex justify-center items-center gap-2'>
                                 <SiReaddotcv />
                                 
